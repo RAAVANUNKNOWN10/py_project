@@ -85,7 +85,7 @@ def create_spend_chart(categories):
 
 if __name__=="__main__":
     
-    unittest.main()
+    
 
     food = Category("Food")
     food.deposit(1000, "initial deposit")
